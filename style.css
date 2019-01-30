@@ -1,0 +1,60 @@
+body {
+  background: grey;
+}
+
+h1 {
+  font-size: 25px;
+  color: black;
+  text-align: center;
+  font-family: 'Great Vibes', cursive;
+}
+h2 {
+  font-size: 15px;
+  color: black;
+  text-align: center;
+  font-family: 'Great Vibes', cursive;
+}
+h3{
+  text-align: left;
+  color:black;
+}
+
+h5{
+  color: black;
+}
+
+p {
+  font-family: 'Lobster', cursive;
+  font-size: 15px;
+  color:black;
+}
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container{
+  width: 500px;
+  margin : 0 auto;
+  padding: 0px;
+}
+
+.card {
+  background-color: lightgrey;
+  width: 500px;
+  border: 5px solid purple;
+  padding: 30px;
+  border-radius: 5%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+#list-inline > li {
+  display: inline-block;
+  margin: auto;
+  width: 30%;
+  padding-left: 0px
+
+}
