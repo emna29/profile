@@ -51,10 +51,10 @@ img {
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
 #list-inline > li {
   display: inline-block;
   margin: auto;
   width: 30%;
   padding-left: 0px
-
 }
